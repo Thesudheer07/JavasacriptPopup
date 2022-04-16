@@ -3,7 +3,7 @@
 #Code
 modal popup show on click button using c#  
 (1) - 
-string clientScript = @"
+// string clientScript = @"
                 $(function(){
                           $('#RechargeConfirmPopup').modal('show');
                     });";
