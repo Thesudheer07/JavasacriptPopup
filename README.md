@@ -12,3 +12,4 @@ modal popup show on click button using c#
          (2)-       // ScriptManager.RegisterStartupScript(Page, Page.GetType(), "myModal", "$('#RechargeConfirmPopup').modal('show');", true);
                 
          (3)     // ClientScript.RegisterStartupScript(this.GetType(), "Popup", "PopupConfirmRecharge();", true);
+         hello frnds
